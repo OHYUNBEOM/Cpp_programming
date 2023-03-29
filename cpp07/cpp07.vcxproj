@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Users\user\Desktop\c++소스코드\CPP_Src\Chapter 8 source\FunctionOverride.cpp" />
     <ClCompile Include="inheritanceClass.cpp" />
+    <ClCompile Include="Override.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
