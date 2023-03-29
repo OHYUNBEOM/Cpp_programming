@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="inheritanceClass.cpp">
+    <ClCompile Include="cpp01_inheritanceClass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Override.cpp">
+    <ClCompile Include="cpp02_Override.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
